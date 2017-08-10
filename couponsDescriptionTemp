@@ -1,0 +1,52 @@
+{
+  "coupons":[
+    {
+      "id":"01",
+      "title":"עלובי החיים בתאטרון הבימה",
+      "price":149,
+      "locaton":"תל אביב",
+      "category":"shows",
+      "img":"https://media.grouponisrael.co.il/_media/media/8003/128299_271_162.jpg?t=1502287844"
+    },
+    {
+      "id":"02",
+      "title":"יום כיף במלון רימונים טאואר רמת גן ליחיד",
+      "price":99,
+      "locaton":"רמת גן",
+      "category":"spa",
+      "img":"https://media.grouponisrael.co.il/_media/media/7891/128108.jpg?t=1502219643"
+    },
+    {
+      "id":"03",
+      "title":"ארוחת בוקר זוגית בקפה נמרוד",
+      "price":69,
+      "locaton":"Tel Aviv",
+      "category":"breakfast",
+      "img":"https://media.grouponisrael.co.il/_media/media/7579/128232.jpg?t=1502280164"
+    },
+    {
+      "id":"04",
+      "title":"סדנת וויסקי בבית ספר לברמנים - זמן אמיתי",
+      "price":69,
+      "locaton":"Tel Aviv",
+      "category":"alcohol",
+      "img":"https://media.grouponisrael.co.il/_media/media/2121/4863.jpg?t=1488885861"
+    },
+    {
+      "id":"05",
+      "title":"ארוחת בוקר בבית הפנקייק",
+      "price":58,
+      "locaton":"Tel Aviv",
+      "category":"breakfast",
+      "img":"https://media.grouponisrael.co.il/_media/media/7621/125996.jpg?t=1501146210"
+    },
+    {
+      "id":"06",
+      "title":"חבילות ספא בדואו ספא בוטיק, תל אביב",
+      "price":399,
+      "locaton":"Tel Aviv",
+      "category":"spa",
+      "img":"https://media.grouponisrael.co.il/_media/media/1252/2950.jpg?t=1488128439"
+    }
+  ]
+}
